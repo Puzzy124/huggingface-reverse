@@ -1,5 +1,5 @@
 # HuggingFace chat / image generator in your console!
-
+Note: This is NOT done. I will be working on this later on today or tomorrow idk.
 A simple yet easy to use (somewhat) script to generate images and text with AI models from your console!
 
 ## Features
